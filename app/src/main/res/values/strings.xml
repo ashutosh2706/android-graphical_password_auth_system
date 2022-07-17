@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Graphical Password Auth</string>
+    <string name="menu_submit">Submit</string>
+    <string name="swap_images">Swap Images</string>
+</resources>
